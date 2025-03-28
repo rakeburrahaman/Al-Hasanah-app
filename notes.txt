@@ -1,0 +1,20 @@
+ # Disable popup in main.js file some code has been removed
+  
+  // $(document).ready(function () {
+  //   function showpanel() {
+  //     $(".anywere-home").addClass("bgshow");
+  //     $(".rts-newsletter-popup").addClass("popup"); 
+  //   }
+  //   setTimeout(showpanel, 4000) 
+  // });
+
+  // $(".anywere-home").on('click', function () {
+  //   $(".rts-newsletter-popup").removeClass("popup")
+  //   $(".anywere-home").removeClass("bgshow")
+  // });
+  // $(".newsletter-close-btn").on('click', function () {
+  //   $(".rts-newsletter-popup").removeClass("popup")
+  //   $(".anywere-home").removeClass("bgshow")
+  // });
+
+
